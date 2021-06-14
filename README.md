@@ -11,11 +11,11 @@
 
 <table>
 <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
 </tr>
 <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
 </tr>
 </table>
