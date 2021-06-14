@@ -11,10 +11,10 @@
 
 <table align="center">
 <tr>
-    <td><img src="/web/1.1.1.png" width="500"/> <align="center">1.1.1 </td>
-    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
-    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
-    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/></td>
 </tr>
 <tr align="center">
      <td> 1.1 </td>
