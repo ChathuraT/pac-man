@@ -17,12 +17,12 @@
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
 </tr>
 <tr align="center">
-     <td align="center"> <centre 1.1 /> </td>
+     <td> 1.1 </td>
      <td> 1.1 </td>
      <td> 1.1 </td>
      <td> 1.1 </td>
 </tr>
-<tr>
+<tr align="center">
     <td><img src="/web/1.1.1.png" width="500"/></td>
     <td><img src="/web/1.1.1.png" width="500"/></td>
     <td><img src="/web/1.1.1.png" width="500"/></td>
