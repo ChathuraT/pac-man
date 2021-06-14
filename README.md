@@ -11,7 +11,12 @@
 
 <table cellspacing="0" cellpadding="0">
 <tr>
-    <td><img src="/web/1.1.1.png" width="500"/><figcaption>Caption goes here</figcaption></td>
+    <td>
+    <figure>
+        <img src='/web/1.1.1.png' alt='missing' />
+        <figcaption>Caption goes here</figcaption>
+    </figure>
+    </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
