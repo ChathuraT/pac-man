@@ -23,3 +23,8 @@
     <td><img src="/web/1.1.1.png" width="500"/></td>
 </tr>
 </table>
+
+<style>
+table, tr {border:hidden;}
+td, th {border:hidden;}
+</style>
