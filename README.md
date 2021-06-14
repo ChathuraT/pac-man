@@ -11,10 +11,10 @@
 
 <table cellspacing="0" cellpadding="0">
 <tr>
-    <td><img src="/web/1.1.1.png" width="500"/></td>
-    <td><img src="/web/1.1.1.png" width="500"/></td>
-    <td><img src="/web/1.1.1.png" width="500"/></td>
-    <td><img src="/web/1.1.1.png" width="500"/></td>
+    <td><img src="/web/1.1.1.png" width="500"/> 1.1.1 </td>
+    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
+    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
+    <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
 </tr>
 <tr>
     <td><img src="/web/1.1.1.png" width="500"/></td>
@@ -24,7 +24,3 @@
 </tr>
 </table>
 
-<style>
-table, tr {border:hidden;}
-td, th {border:hidden;}
-</style>
