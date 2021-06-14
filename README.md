@@ -11,7 +11,7 @@
 
 <table cellspacing="0" cellpadding="0">
 <tr>
-    <td><img src="/web/1.1.1.png" width="500"/><center> 1.1.1 </center></td>
+    <td><img src="/web/1.1.1.png" width="500"/><p style="text-align:center">Center this text!</p></td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
