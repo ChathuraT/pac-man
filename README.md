@@ -17,7 +17,7 @@
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
 </tr>
 <tr>
-     <td> <centre 1.1 /> </td>
+     <td align="center"> <centre 1.1 /> </td>
      <td> 1.1 </td>
      <td> 1.1 </td>
      <td> 1.1 </td>
