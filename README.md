@@ -9,7 +9,7 @@
 | *Space* | *Space* | *Space* |
 
 
-<table cellspacing="0" cellpadding="0">
+<table align="center">
 <tr>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
     <td><img src="/web/1.1.1.png" width="500"/>1.1.1 </td>
